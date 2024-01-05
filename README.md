@@ -27,6 +27,8 @@ To use Hermes Haven, follow these steps:
 4. **Real-time Monitoring:** Continuously monitor the incoming kinematic data for fall detection.
 5. **Twilio Configuration:** Ensure Twilio API integration is properly set up to initiate calls to emergency contacts upon detecting a sustained fall.
 
+   To see pre-existing runs, refer to the Notebook.
+
 ## Dependencies
 
 Ensure the following dependencies are installed:
